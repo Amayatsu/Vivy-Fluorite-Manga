@@ -9,7 +9,7 @@
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "Nyto": "/proxy/api/imgur/chapter/kACTkdS/"
+        "<group name>": "/proxy/api/imgur/chapter/kACTkdS/"
       },
       "last_updated": "1616368746"
     }

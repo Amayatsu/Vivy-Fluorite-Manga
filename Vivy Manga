@@ -1,6 +1,6 @@
 {
   "title": "Vivy: Fluorite Eye's Song",
-  "description": "<manga description>",
+  "description": "An unknown AI Matsumoto suddenly appeared under the diva AI Vivi who is active in Japan's largest theme park "NiaLand". Matsumoto, who says that he came from the future 100 years later, asks Vivi to cooperate with the "Singularity Plan" in order to prevent the final war between humankind and AI.",
   "artist": "Morito Yamataka",
   "author": "Tappei Nagatsuki, Eiji Umehara",
   "cover": "https://media.discordapp.net/attachments/799635578845003818/827932783984246784/EyD3R11UcAEzAxE.png",
@@ -9,7 +9,7 @@
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/kACTkdS/"
+        "Nyto": "/proxy/api/imgur/chapter/kACTkdS/"
       },
       "last_updated": "1616368746"
     }

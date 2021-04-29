@@ -1,6 +1,6 @@
 {
   "title": "Vivy: Fluorite Eye's Song",
-  "description": "",
+  "description": "<manga description>",
   "artist": "Morito Yamataka",
   "author": "Tappei Nagatsuki, Eiji Umehara",
   "cover": "https://media.discordapp.net/attachments/799635578845003818/827932783984246784/EyD3R11UcAEzAxE.png",
@@ -12,6 +12,6 @@
         "Nyto": "/proxy/api/imgur/chapter/kACTkdS/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "title": "Vivy: Fluorite Eye's Song",
+  "title": "Vivy: Fluorite Eye's Song>",
   "description": "<manga description>",
   "artist": "Morito Yamataka",
-  "author": "Tappei Nagatsuki, Eiji Umehara",
+  "author": "Tappei Nagatsuki, Eiji Umehara>",
   "cover": "https://media.discordapp.net/attachments/799635578845003818/827932783984246784/EyD3R11UcAEzAxE.png",
   "chapters": {
     "1": {
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "Nyto": "/proxy/api/imgur/chapter/kACTkdS/"
+        "<group name>": "/proxy/api/imgur/chapter/kACTkdS/"
       },
       "last_updated": "1616368746"
-    }
+    },
   }
 }

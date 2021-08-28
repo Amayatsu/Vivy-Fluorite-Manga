@@ -5,21 +5,23 @@
   "author": "Tappei Nagatsuji, Eji",
   "cover": "https://media.discordapp.net/attachments/799635578845003818/827932783984246784/EyD3R11UcAEzAxE.png",
   "chapters": {
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1630119043",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/riOtaEw/"   
+      },
+      "last_updated": "1630066647"
+    },
     "1": {
-      "title": "1",
+      "title": "Chapter 1",
       "volume": "1",
       "last_updated": "1630118989",
       "groups": {
         "": "/proxy/api/imgur/chapter/kACTkdS/"
-      }
     },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1630119043",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/riOtaEw/"
-      }
-    }
+      "last_updated": "1574776860"
   }
+ }
 }
